@@ -7,7 +7,7 @@ A professional solar marketing website with hero landing page and multi-step qua
 ## 🚀 Features
 
 ### 🏠 **Hero Landing Page** (`landing.html`)
-- Beautiful solar panel background with gradient overlay
+- Beautiful solar panel background with gradient overlay 
 - Professional hero section with benefits
 - ZIP code collection form
 - Trusted user avatars with emoji people
